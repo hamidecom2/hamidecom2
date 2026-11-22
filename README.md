@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Hamid 👋
 
-<!--
-**hamidecom2/hamidecom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my profile!
 
-Here are some ideas to get you started:
+- 🛒 Passionate about E-commerce & Digital Business
+- 🎬 I also love making videos & content creation
+- 🌱 I'm currently learning Web Development & Online Selling
+- 💡 I love building projects and learning new skills
+- 📫 How to reach me: DM me here on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- E-commerce
+- Marketing
+- Video Editing / Content Creation
+- HTML / CSS / JavaScript
+- Shopify / WooCommerce
+
+### 📈 My Goal
+Building my own successful online business, step by step.
+
+---
+⭐ Thanks for visiting my profile!
