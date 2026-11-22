@@ -1,22 +1,31 @@
-# Hi there, I'm Hamid 👋
+👋 Hi, I'm Hamid
 
-### Welcome to my profile!
+⚙️ PLC Programmer | 🌐 Web Developer | 📢 Digital Marketer | 🎥 Video Creator | 🛒 E-commerce Specialist
 
-- 🛒 Passionate about E-commerce & Digital Business
-- 🎬 I also love making videos & content creation
-- 🌱 I'm currently learning Web Development & Online Selling
-- 💡 I love building projects and learning new skills
-- 📫 How to reach me: DM me here on GitHub
+I help businesses grow with technology, marketing, e-commerce and video.
 
-### 🛠️ Skills
-- E-commerce
-- Marketing
-- Video Editing / Content Creation
-- HTML / CSS / JavaScript
-- Shopify / WooCommerce
+### What I do:
 
-### 📈 My Goal
-Building my own successful online business, step by step.
+🛒 E-commerce
+- Shopify stores
+- Product research & winning products
+- Store optimization
 
----
-⭐ Thanks for visiting my profile!
+⚙️ PLC Programming
+- Programming production lines
+- Automation & industrial systems
+
+🌐 Web Development
+- Creation of modern websites
+- Landing pages that convert
+
+📢 Advertising
+- Google Ads
+- Facebook Ads
+
+🎥 Video Production
+- Advertising videos
+- Machine / industrial videos
+- Promotional content
+
+Let's build something great together!
